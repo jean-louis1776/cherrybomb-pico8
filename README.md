@@ -4,7 +4,34 @@
 
 [![N|Solid](https://i.ibb.co/CvTFFNv/pico8-logo.png)](https://www.lexaloffle.com/pico-8.php)
 
-A simple but interesting variation of the well-known Galaga/Space Invaders game.
+Cherry Bomb is a basic arcade Shoot 'em up game (Shmup) reminiscent of Space Invaders or Galaga. Pilot your blue spaceship to blast your way through 9 waves of attacking aliens.
+
+## How to Play
+
+Use the following controls:
+
+- Arrow keys - Move the ship
+- (X) - Shoot
+- (O) - Bomb (Depletes your 🍒. See below)
+
+Shoot the enemies to destroy them. Enemies will attack you. Destroy or avoid all enemies in a wave to proceed to the next wave. There are 9 waves in the game. If you get hit you will lose a ❤️. If you lose all ❤️ you lose the game.
+
+### Pickups
+
+Occasionally, defeated enemies will drop a 🍒 pickup. Collect them to increase the strength of your Bomb. Triggering the Bomb will deplete your 🍒. You cannot use the Bomb if you have no 🍒.
+
+If you collect 10 🍒 you will restore a ❤️. If you already have 4❤️ you will get points instead. After collecting 10 🍒 your stock will always reset.
+
+### Scoring
+
+Here are ways to score in the game:
+
+- Shooting down enemies will give you points. More dangerous enemies will give more points
+- Shooting down an attacking enemy will double the points you get
+- Collecting 10🍒 with 4❤️ will give you points
+- Destroying enemy bullets with the Bomb will give you points
+
+The game will keep your highest score. Post your best results in the comments below!
 
 ## Installation
 
